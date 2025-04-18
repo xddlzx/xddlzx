@@ -1,65 +1,69 @@
-<h1 align="center">Hi, I'm xddlzx 👋</h1>
-
+<h1 align="center">Hi there, I'm Dilay Ece Maral 👋</h1>
 <p align="center">
-  🧠 Computer Science Student • 🔐 Security & Quantum Enthusiast • 🚀 Research-Oriented
+  Computer Engineering Student
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xddlzx&layout=compact&theme=github_dark&langs_count=6&hide=html" alt="Top Languages" />
+</p>
 
-I'm an undergraduate Computer Engineering student at **Gazi University**, graduating in 2026.  
-Currently, I'm combining my passion for **research** with hands-on projects in:
 
-- 🧠 **Artificial Intelligence** (Federated Learning, Object Detection)
-- 🔐 **Computer & Smart Contract Security**
-- ⚛️ **Quantum Computing** *(early exploration stage)*
-- 🧬 **Low-Level Systems** (Assembly, Microprocessors, Rust)
+### 💼 Who Am I?
 
-I'm highly motivated to pursue a **research-based Master's program in Europe** and eventually contribute to cutting-edge research at the intersection of **Security**, **AI**, and **Quantum Computing**.
+I'm a third-year Computer Engineering student at **Gazi University**, based in Ankara, Turkey.  
+My expertise lies in building secure and scalable systems — particularly at the intersection of:
 
----
+- 🔐 **Blockchain & Smart Contract Security**
+- 🧠 **AI-integrated Secure Systems**
+- ⚛️ **Low-level Programming & Performance Optimization**
 
-### 🚧 Current Projects
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **Federated Learning Platform** | Building a decentralized learning system with a small research group. | Python, PyTorch, Flask |
-| **Secure Escrow Smart Contract** | Rust-based escrow logic on MultiversX for secure transactions. | Rust, MultiversX |
-| **Object Detection for the Visually Impaired** | AI-powered app to detect and describe objects for accessibility. | Python, OpenCV, YOLO |
-| **Microprocessor Labs** | Low-level assembly projects written in emu8086. | Assembly, emu8086 |
-| **GUI-Based OOP App** | Java desktop app with a layered architecture for object-oriented practice. | Java, JavaFX |
-
-> I also regularly read academic papers and contribute to small-scale research initiatives at my university.
+With a passion for decentralized technologies, I've worked on full-stack dApps, cryptographic protocols, and federated learning platforms secured through blockchain.
 
 ---
 
-### 🎯 Goals for 2025
+### 🚀 What I'm Working On
 
-- 🧪 Join a research internship or assistantship
-- 🇪🇺 Apply for Master's programs in **Netherlands** / **Switzerland**
-- 📖 Improve my skills in **secure coding**, **quantum algorithms**, and **AI systems**
-- 📈 Contribute to open-source and publish a technical blog
+- 🧠 **Secure Federated Learning Platform**  
+  Decentralized anomaly detection in AI training, secured via smart contracts and cryptographic signatures.
 
----
+- 🔐 **Blockchain LegalTech Project**  
+  Ethereum smart contracts, React frontend, and Dockerized architecture for seamless full-stack deployment.
 
-### 🛠️ Languages & Tools
+- 🤖 **AI Object Detection App for the Visually Impaired**  
+  A mobile application that provides real-time voice feedback on nearby objects detected via camera, enhancing spatial awareness and independence.
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+- 🚘 **Automated License Plate Recognition System (ALPR)**  
+  Building a physical device integrated with **Cloud AI**, **secure APIs**, and on-device computation to recognize license plates in real-time securely and efficiently.
 
----
+- 🔒 **Escrow Contracts on MultiversX**  
+  Rust-based, tamper-resistant smart contracts for secure digital asset exchange.
 
-### 📫 Let's Connect
-
-- ✉️ Email: xddlzx@gmail.com  
-- 🌐 GitHub: [github.com/xddlzx](https://github.com/xddlzx)  
-<!-- Add LinkedIn if available -->
+- 🎨 **UI/UX & EdTech Contribution @ NEMO**  
+  Visual design and social media campaigns for an English learning platform, boosting engagement by 21%.
 
 ---
 
+### 🛠️ Tech Stack
+
+**Languages:**  
+Python, Rust, JavaScript, C/C++, Assembly, Solidity, Motoko
+
+**Frameworks & Libraries:**  
+React, Node.js, Express, Flask, Ethers.js
+
+**Tools:**  
+Docker, Git/GitHub, Figma, Selenium, MultiversX, LaTeX
+
+**Databases:**  
+SQL, PostgreSQL, NoSQL
+
+---
+
+### 📬 Let's Connect
+
+- ✉️ Email: dilayece@icloud.com  
+- 💼 LinkedIn: [dilay-ece-maral](https://www.linkedin.com/in/dilay-ece-maral/)
+
+---
