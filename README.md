@@ -61,13 +61,13 @@ With a passion for decentralized technologies, I've worked on full-stack dApps, 
 ### 🛠️ Tech Stack
 
 **Languages:**  
-Python, Rust, JavaScript, C/C++, Assembly, Solidity, Motoko
+Python, Rust, Java, C#, JavaScript, C/C++, Assembly, Solidity
 
 **Frameworks & Libraries:**  
-React, Node.js, Express, Flask, Ethers.js
+React, Node.js, Express, Ethers.js
 
 **Tools:**  
-Docker, Git/GitHub, Figma, Selenium, MultiversX, LaTeX
+Docker, Git/GitHub, Figma, Selenium, MultiversX
 
 **Databases:**  
 SQL, PostgreSQL, NoSQL
